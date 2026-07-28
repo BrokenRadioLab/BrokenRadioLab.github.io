@@ -36,7 +36,7 @@ During this closed beta, requests to the relay server are sent over plain HTTP a
 
 ## Data retention & deletion
 
-You can delete any saved item within the app. Because your archive lives on your device, uninstalling the app removes its local data. Server-side logs contain only the device identifier and request metadata needed to operate the relay.
+You can delete any saved item within the app. Because your archive lives on your device, uninstalling the app removes its local data. Server-side logs contain only the device identifier and request metadata needed to operate the relay. To request deletion of server-side log entries, contact 286360088+BrokenRadioLab@users.noreply.github.com.
 
 ## Children
 
@@ -90,7 +90,7 @@ AI 정리를 사용할 경우, **저장한 콘텐츠의 텍스트**(예: 페이�
 
 ## 보관 및 삭제
 
-앱 내에서 저장한 항목을 삭제할 수 있습니다. 아카이브는 기기에 저장되므로 앱을 삭제하면 로컬 데이터가 제거됩니다. 서버 로그에는 중계 운영에 필요한 기기 식별자와 요청 메타데이터만 포함됩니다.
+앱 내에서 저장한 항목을 삭제할 수 있습니다. 아카이브는 기기에 저장되므로 앱을 삭제하면 로컬 데이터가 제거됩니다. 서버 로그에는 중계 운영에 필요한 기기 식별자와 요청 메타데이터만 포함됩니다. 서버 로그 삭제를 요청하시려면 286360088+BrokenRadioLab@users.noreply.github.com으로 연락해 주세요.
 
 ## 아동
 
