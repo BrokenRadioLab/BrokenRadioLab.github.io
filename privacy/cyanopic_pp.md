@@ -48,7 +48,7 @@ We may update this policy; material changes will be reflected here with a new da
 
 ## Contact
 
-Questions: [hcode1210@gmail.com](mailto:hcode1210@gmail.com) (BrokenRadioLab).
+Questions: [286360088+BrokenRadioLab@users.noreply.github.com](mailto:286360088+BrokenRadioLab@users.noreply.github.com) BrokenRadioLab.
 
 ---
 
@@ -102,4 +102,4 @@ Cyanopic은 만 13세 미만 아동을 대상으로 하지 않습니다.
 
 ## 문의
 
-문의: [hcode1210@gmail.com](mailto:hcode1210@gmail.com) (BrokenRadioLab).
+문의: [286360088+BrokenRadioLab@users.noreply.github.com](mailto:286360088+BrokenRadioLab@users.noreply.github.com) BrokenRadioLab.
